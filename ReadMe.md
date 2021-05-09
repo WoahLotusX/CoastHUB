@@ -44,16 +44,16 @@
 * ➤ More Coming Soon
 </details>
 
-## ➤ Creators, Credits
+## ➤ Dev Team, Credits
 
-* ➤ NeoXephox#0001 : Isle.
-* ➤ GoodB0y08#4130 : SCP:Roleplay, Th1nkW Bot, README.
-* ➤ Mr.Kefir4ik#7734 : Discord Bot.
+* ➤ Bando#6284 : Main Dev.
+* ➤ Abstract#8007 & prezt#2918 : UI.
+* ➤ Peanut#1120 : Whitelist Dashboard.
 </details>
 
-| Feature                | Category                                             | Description                                      |
+| Features                | Category                                             | Description                                      |
 |-----------------------|--------------------------------------------------|--------------------------------------------------|
-| Attachments Changer.          | Attachments.                                           | Attachments changer, you can change attachment for weapon.|
+| *Auto Farm,Auto Raid,Auto Factory,Auto Buso,Auto Observation,Auto Buy haki colors,Auto Legendary Swords and more          | Blox Fruits.                                           | Attachments changer, you can change attachment for weapon.|
 | Teams Changer         | Teams.                                           | You can change the team without going into menu. |
 | Trigger SCP:096 [ShyGuy]            | SCPs                                           | Trigger SG. |
 | Contain SCP:096 [ShyGuy]    | SCPs | Bag SG easily. |
@@ -90,21 +90,20 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-| Supported exploit | Where you can get it [Link] | Price             |
+| Supported exploits| Where you can get it [Link] | Price            |
 |-------------------|-----------------------------|-------------------|
-|     SynapseX      | x.synapse.to                | 20$               |
-|       KRNL        | krnl.rocks                  | 0$ [KEY]          |
-|     Elysian       | idk                         | 40$               |
-|  Protosmasher     | idk                         | 15$               |
-|     Electron      | idk                         | i think it's free |
-|     pedohurt      | [content deleted]           | idk               |
+|     SynapseX      | https://x.synapse.to                | 20$               |
+|     KRNL        | https://krnl.Ca                     | 0$ [KEY]          |
+|     Sentinel v3    | idk                         | idk               |
+|     ScriptWare v2     | idk                         | idk |
 
-| Links |
+
+| PSA |
 |-------|
-| 🔗https://dsc.gg/monkeware.scprp : SCP Roleplay |
-| 🔗https://discord.gg/HsVjt9BFvv : Isle |
-| 🔗https://v3rmillion.net/showthread.php?tid=1092389&page=2 : V3rmillion link |
+| I am looking for devs for this script |
+| IF your are interested |
+| Contact Bando through the providided Discord above |
 
 ```ini
-[❤] Have fun using Monkeware!
+[❤] Have fun using CoastHUB!
 ```
