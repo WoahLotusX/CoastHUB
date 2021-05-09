@@ -53,49 +53,43 @@
 
 | Features                | Category                                             | Description                                      |
 |-----------------------|--------------------------------------------------|--------------------------------------------------|
-| *Auto Farm,Auto Raid,Auto Factory,Auto Buso,Auto Observation,Auto Buy haki colors,Auto Legendary Swords and more          | Blox Fruits.                                           | Attachments changer, you can change attachment for weapon.|
-| Teams Changer         | Teams.                                           | You can change the team without going into menu. |
-| Trigger SCP:096 [ShyGuy]            | SCPs                                           | Trigger SG. |
-| Contain SCP:096 [ShyGuy]    | SCPs | Bag SG easily. |
-| Contain SCP:173 [Peanut]         | SCPs                                           | Contain Peanut easily.   |
-| Get zombie virus.         | SCPs                                           | Get zombie virus easily. |
-| Get crystal            |            SCPs                                      | Get the crystal easily.                       |
-| Firerate Changer            |            ModifyGuns                                      | Change the firerate                       |
-| Ammo Changer            |            ModifyGuns                                      |                        |
-| Clip Changer            |            ModifyGuns                                      |                        |
-| Silent Aim            |            ModifyGuns                                      |      Press F to silent aim                  |
-| Save to config / load from config            |            ModifyGuns                                      |                        |
-| Reset all            |            ModifyGuns                                      |                        |
-| Damage Changer            |            ModifyGuns                                      |                        |
-| Walkspeed Changer            |            ModifyGuns                                      |                        |
-| Sprint Changer            |            ModifyGuns                                      |                        |
-| AimFov Changer            |            ModifyGuns                                      |                        |
-| Spinbot animation [NEW]            |            ModifyGuns                                      |                      |
-| Kill all [NEW]            |            ModifyGuns                                      |           You need to turn on SilentAim to use it.           |
-| Walkspeed Bypass [1]            |            Bypasses                                      |        Made by GoodB0y08#4130                |
-| Walkspeed Bypass [2]            |            Bypasses                                      |                        |
-| Noclip bypass            |            Bypasses                                      |               Made by 3dsboy08         |
-| Teleport to all locations            |            Teleport                                      |                        |
-| Teleport to all players            |            Teleport                                      |                      |
-| Turn on alarms            |            Alarms                                      |                  Raid, Breach, Riot.    |
-| Change colors of all lightings stuff            |            Lighting                                      |                      |
-| Toggle all lightings stuff            |            Lighting                                      |                      |
-| Complete D-9341 | AutoCompleteQuests | Complete D-9341 easily! |
-| Complete Code-Z | AutoCompleteQuests | Infect all. |
-| No animations | Misc | |
-| No Jump cooldown | Misc | |
-| SCP ESP | Misc | |
-| Toggle vents | Misc | |
-| Radio Breaker | Misc:RadioBreaker | |
+| Soon          | Blox Fruits.                                           | Coast Hub Winning|
+| Soon         | Arsenal.                                           | Coast Hub Winning. |
+| Soon            | SCPs                                           | Coast Hub Winning. |
+| SOon    | SCPs |Coast Hub Winning. |
+| Soon        | SCPs                                           |Coast Hub Winning..   |
+| Soon        | SCPs                                           | Coast Hub Winning. |
+| Soon           |            SCPs                                      | Coast Hub Winning.                       |
+| Soon           |            ModifyGuns                                      | Coast Hub Winning.                       |
+| Soon          |            ModifyGuns                                      | Coast Hub Winning.                       |
+| Soon            |            ModifyGuns                                      |  Coast Hub Winning.                      |
+| Soon           |            ModifyGuns                                      |     Coast Hub Winning.                  |
+| Soon            |            ModifyGuns                                      |  Coast Hub Winning.                      |
+| Soon           |            ModifyGuns                                      |    Coast Hub Winning.                    |
+| Soon            |            ModifyGuns                                      |   Coast Hub Winning.                     |
+| Soon            |            ModifyGuns                                      |    Coast Hub Winning.                    |
+| Soon           |            ModifyGuns                                      |     Coast Hub Winning.                   |
+| Soon            |            ModifyGuns                                      |   Coast Hub Winning.                     |
+| Soon           |            ModifyGuns                                      |     Coast Hub Winning.                 |
+| Soon           |            ModifyGuns                                      |           Coast Hub Winning.           |
+| Soon           |            Bypasses                                      |        Coast Hub Winning.              |
+| Soon           |            Bypasses                                      |       Coast Hub Winning.                 |
+| Soon           |            Bypasses                                      |              Coast Hub Winning.         |
+| Soon           |            Teleport                                      |         Coast Hub Winning.               |
+| Soon           |            Teleport                                      |       Coast Hub Winning.               |
+| Soon            |            Alarms                                      |          Coast Hub Winning.    |
+| Soon            |            Lighting                                      |          Coast Hub Winning.            |
+| Soon           |            Lighting                                      |          Coast Hub Winning.            |
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 | Supported exploits| Where you can get it [Link] | Price            |
 |-------------------|-----------------------------|-------------------|
 |     SynapseX      | https://x.synapse.to                | 20$               |
-|     KRNL        | https://krnl.Ca                     | 0$ [KEY]          |
+|     KRNL        | https://krnl.Ca                     | Free         |
 |     Sentinel v3    | idk                         | idk               |
-|     ScriptWare v2     | idk                         | idk |
+|     ScriptWare v2     | https://script-ware.com/                        | $15 |
 
 
 | PSA |
