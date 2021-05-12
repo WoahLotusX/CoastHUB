@@ -46,8 +46,8 @@
 
 ## ➤ Dev Team, Credits
 
-* ➤ Bando#6284 : Main Dev.
-* ➤ Abstract#8007 & prezt#2918 : UI.
+* ➤ EYESO#6284 : Main Dev.
+* ➤ xHeptc#4565 : UI.
 * ➤ Peanut#1120 : Whitelist Dashboard.
 </details>
 
@@ -100,7 +100,8 @@
 |-------|
 | I am looking for devs for this script |
 | IF your are interested |
-| Contact Bando through the providided Discord above |
+| Contact EYESO through the providided Discord above |
+| Note: xHeptc and Peanut are not devs for the script |
 
 ```ini
 [❤] Have fun using CoastHUB!
